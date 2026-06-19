@@ -35,7 +35,7 @@ A CSV file containing metadata and annotations for each image. It includes the f
 
 If you use this dataset in your research, please cite the following:
 
-"Abramovich O, Pizem H, Fhima J, Berkowitz E, Gofrit B, Meisel M, et al. (2025). Hillel Yaffe Glaucoma Dataset (HYGD) (version 1.0.0). PhysioNet. https://doi.org/10.13026/*****."
+"Abramovich O, Pizem H, Fhima J, Berkowitz E, Gofrit B, Meisel M, et al. (2025). Hillel Yaffe Glaucoma Dataset (HYGD) (version 1.0.0). PhysioNet. https://doi.org/10.13026/z0ak-km33
 "Abramovich O, Pizem H, Fhima J, Berkowitz E, Gofrit B, Meisel M, et al. GONet: A Generalizable Deep Learning Model for Glaucoma Detection [Internet]. arXiv.org. 2025."
 
 Additionally, if you use the quality scores in your research, please cite the following:
